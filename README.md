@@ -8,6 +8,7 @@
   <img align="center" alt="Wagao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wagao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wagao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="right" alt="WagaoCode" height="150" width="250" src="https://i.imgur.com/MvMxQ1a.gif">
 </div>
 
 ##
