@@ -15,4 +15,4 @@
 
 <a href="https://www.linkedin.com/in/wagnerferreiracosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+ ![Snake animation](https://github.com/wagaofc/wagaofc/blob/output/github-contribution-grid-snake.svg)
