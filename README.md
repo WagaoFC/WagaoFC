@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://renderapi.s3.amazonaws.com/9jSwT1g8R.png"/>
+<img align="right" height="590em" width="600em" src="https://renderapi.s3.amazonaws.com/9jSwT1g8R.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Wagner</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wagaofc&color=blue" alt="Profile views" /> </p>
 
