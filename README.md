@@ -10,7 +10,7 @@
 
 - 🔥 Estudando muito **ReactJS e Next.js**
 
-- ⚡ Uma curiosidade: **Jogo muito video games**
+- 🎮 Jogo bastante video games
 
 <br><br>
 
