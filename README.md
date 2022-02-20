@@ -10,7 +10,9 @@
 
 - 🔥 Estudando muito **ReactJS e Next.js**
 
-- 🎮 Jogo bastante video games
+- 🎮 Gosto muito de jogar video games
+
+<a href="https://www.linkedin.com/in/wagnerferreiracosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br><br>
 
