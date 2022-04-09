@@ -2,7 +2,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Wagner</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wagaofc&color=blue" alt="Profile views" /> </p>
 
-- 🚀 Junior Software Developer
+- 🚀 Software Developer
 
 - ⭐ Atualmente estou trabalhando na [Zema](https://zema.com)
 
