@@ -8,7 +8,7 @@
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [devWagao.com](https://devwagao.com)
 
-- 🔥 Estudando muito **ReactJS e Node.js**
+- 🔥 Estudando muito **ReactJS**
 
 - 🎮 Jogo video games sempre que possível
 
