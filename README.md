@@ -8,7 +8,7 @@
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [devWagao.com](https://devwagao.com)
 
-- 📚 Cursando **Engenharia de Software** na **Cruzeiro do Sul**
+- 📚 Cursando **Engenharia de Software** na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/)
  
 - 🔥 Estudando muito **ReactJS**
 
