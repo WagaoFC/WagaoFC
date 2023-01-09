@@ -8,6 +8,8 @@
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [devWagao.com](https://devwagao.com)
 
+- 📚 Cursando **Engenharia de Software** na **Cruzeiro do Sul**
+ 
 - 🔥 Estudando muito **ReactJS**
 
 - 🎮 Jogo video games sempre que possível
