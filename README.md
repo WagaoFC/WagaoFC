@@ -6,7 +6,7 @@
 
 - ⭐ Atualmente estou trabalhando na [Zema](https://zema.com)
 
-- 👨‍💻 Todos os meus projetos estarão disponíveis em [devWagao.com]([https://devwagao.com](https://dev-wagao.vercel.app/))
+- 👨‍💻 Todos os meus projetos estarão disponíveis em [devWagao.com](https://dev-wagao.vercel.app/)
 
 - 📚 Cursando **Engenharia de Software** na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/)
  
