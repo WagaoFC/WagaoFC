@@ -2,9 +2,9 @@
 <h1 align="left">Olá, eu sou o Wagner</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wagaofc&color=blue" alt="Profile views" /> </p>
 
-- 🚀 Software Developer
+- 🚀 Front-end Developer
 
-- ⭐ Atualmente estou trabalhando na [Zema](https://zema.com)
+- ⭐ Atualmente estou trabalhando na [Bit Tech](https://www.linkedin.com/company/bittecnologia/mycompany/)
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [devWagao.com](https://dev-wagao.vercel.app/)
 
