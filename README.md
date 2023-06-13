@@ -10,7 +10,7 @@
 
 - 📚 Cursando **Engenharia de Software** na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/)
  
-- 🔥 Estudando muito **ReactJS**
+- 🔥 Estudando muito **Angular**
 
 - 🎮 Jogo video games sempre que possível
 
@@ -23,8 +23,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
