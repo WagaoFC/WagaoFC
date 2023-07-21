@@ -10,7 +10,7 @@
 
 - 📚 Cursando **Engenharia de Software** na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/)
  
-- 🔥 Estudando muito **Angular**
+- 🔥 Estudando **Angular**
 
 - 🎮 Jogo video games sempre que possível
 
