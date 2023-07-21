@@ -4,7 +4,7 @@
 
 - 🚀 Front-end Developer
 
-- ⭐ Atualmente estou trabalhando na [Bit Tech](https://www.linkedin.com/company/bittecnologia/mycompany/)
+- 👨‍🚀 Atualmente estou trabalhando na [Bit Tech](https://www.linkedin.com/company/bittecnologia/mycompany/)
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [devWagao.com](https://dev-wagao.vercel.app/)
 
