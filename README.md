@@ -38,5 +38,3 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagaofc&layout=compact&theme=tokyonight" alt="Tecnologias usadas por Wagao"/>
 </p>
-
-![Snake animation](https://github.com/wagaofc/wagaofc/blob/output/github-contribution-grid-snake.svg)
