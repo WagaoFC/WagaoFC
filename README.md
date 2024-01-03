@@ -8,7 +8,7 @@
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [devWagao.com](https://dev-wagao.vercel.app/)
 
-- 📚 Cursando **Engenharia de Software** na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/)
+- 📚 Cursando **Engenharia de Software** (3/8) na [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/)
  
 - 🔥 Estudando **Angular**
 
