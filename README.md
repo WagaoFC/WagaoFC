@@ -1,4 +1,4 @@
-<img align="right" height="400em" width="400em" src="https://renderapi.s3.amazonaws.com/9jSwT1g8R.png"/>
+<img align="right" height="400em" width="400em" src="https://i.ibb.co/d612rrB/astronauta-wagao.png"/>
 <h1 align="left">Olá, eu sou o Wagner</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wagaofc&color=blue" alt="Profile views" /> </p>
 
