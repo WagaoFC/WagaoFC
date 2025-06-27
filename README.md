@@ -16,6 +16,7 @@ Sou um entusiasta do desenvolvimento, sempre em busca de aprender e acompanhar a
 
 ## 🛠 &nbsp;Habilidades
 
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css&logoColor=663399)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=CC6699)&nbsp;
