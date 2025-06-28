@@ -6,13 +6,10 @@ Desenvolvo códigos de qualidade que solucionam problemas e agregam valor.
 Atualmente atuo como desenvolvedor front-end e curso Bacharelado em Engenharia de Software.
 <br>
 Sou um entusiasta do desenvolvimento, sempre em busca de aprender e acompanhar as tecnologias que se destacam no mercado.
-<br><br>
-<a href="https://www.linkedin.com/in/wagnerferreiracosta/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="32" height="32">
-</a>
-<a href="mailto:wagnerferreira_07@hotmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/2048px-Circle-icons-mail.svg.png" width="32" height="32">
-</a>
+<br>
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerferreiracosta/)](https://www.linkedin.com/in/wagnerferreiracosta/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:wagnerferreira_07@hotmail.com)](mailto:wagnerferreira_07@hotmail.com)
 
 ## 🛠 &nbsp;Habilidades
 
